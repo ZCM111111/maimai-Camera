@@ -1,4 +1,6 @@
 import AVFoundation
+import CoreImage
+import Darwin
 import ImageIO
 import SwiftUI
 
