@@ -3,9 +3,8 @@
 <plist version="1.0">
 <dict>
     <key>CFBundleDisplayName</key><string>Maimai Bridge</string>
-    <key>CFBundleExecutable</key><string>MaimaiBridge</string>
     <key>CFBundleIdentifier</key><string>com.maimai.bridge</string>
-    <key>CFBundleName</key><string>Maimai Bridge</string>
+    <key>CFBundleName</key><string>MaimaiBridge</string>
     <key>CFBundlePackageType</key><string>APPL</string>
     <key>CFBundleShortVersionString</key><string>1.0</string>
     <key>CFBundleVersion</key><string>1</string>

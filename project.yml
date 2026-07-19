@@ -26,7 +26,7 @@ targets:
       base:
         INFOPLIST_FILE: Info.plist
         PRODUCT_BUNDLE_IDENTIFIER: com.maimai.bridge
-        PRODUCT_NAME: "Maimai Bridge"
+        PRODUCT_NAME: "MaimaiBridge"
         DEVELOPMENT_TEAM: ""
         CODE_SIGN_STYLE: Manual
         CODE_SIGN_IDENTITY: ""
